@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 # 中国学术成绩单格式转换器（第二次修订）
 
 一个在浏览器中本地运行的成绩单格式整理工具。
